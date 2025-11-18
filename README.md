@@ -18,3 +18,11 @@ Why It Matters
 - Makes it easier for collaborators to contribute.
 - Improves discoverability and professionalism.
 - Often used by platforms like GitHub to generate project previews.
+
+# The Purpose of the Repo
+- Familiarize ourselves with:
+	- commits
+	- pull/push
+	- branching
+	- merging
+	- collaboration

@@ -26,3 +26,8 @@ Why It Matters
 	- branching
 	- merging
 	- collaboration
+
+# Game Build Ideas?
+- Tic Tac Toe
+- Checkers
+- Seperate non related functional code, code snippets

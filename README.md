@@ -37,3 +37,4 @@ Why It Matters
 * Checkers
 * Seperate non related functional code, code snippets
 * Digital Build-A-Bear app for kids to make a bear and then take care of it like a pet.  
+* Chess
